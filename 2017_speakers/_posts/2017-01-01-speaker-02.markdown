@@ -1,12 +1,12 @@
 ---
-title: Name
+title: Tô Thất Bại
 name: Name-2
-subtitle: Position
+subtitle: Cu li nhà Nầm
 layout: 2017_default
 modal-id: 1
 img: TBD.jpg
 thumbnail: TBD.jpg
 alt: Picture of TBD
-topic: Topic
+topic: Làm sao để thành công.
 description: More Info
 ---
