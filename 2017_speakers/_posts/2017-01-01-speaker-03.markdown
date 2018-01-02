@@ -1,12 +1,12 @@
 ---
-title: Name
+title: Công phạt đít 
 name: Name-3
-subtitle: Position
+subtitle: Cao thủ thích phạt đít 
 layout: 2017_default
 modal-id: 1
 img: TBD.jpg
 thumbnail: TBD.jpg
 alt: Picture of TBD
-topic: Topic
+topic: Phát 
 description: More Info
 ---
