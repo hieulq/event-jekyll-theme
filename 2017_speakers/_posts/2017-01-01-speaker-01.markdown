@@ -1,12 +1,12 @@
 ---
-title: Name
-name: Name-1
-subtitle: Position
+title: Công Mặc
+name: Cong-Mac
+subtitle: Tộc trưởng tộc nghìn đời ế vợ
 layout: 2017_default
 modal-id: 1
 img: TBD.jpg
 thumbnail: TBD.jpg
 alt: Picture of TBD
-topic: Topic
+topic: Làm sao để ế trường tồn.
 description: More Info
 ---
